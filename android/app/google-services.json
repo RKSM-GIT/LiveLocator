@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288922492385",
+    "project_id": "live-locator-768b7",
+    "storage_bucket": "live-locator-768b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288922492385:android:2696bacf40c6b9710c06a0",
+        "android_client_info": {
+          "package_name": "com.mehul.live_locator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288922492385-jcubtu30po8bh1u41r5679a9inkfcmi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehul.live_locator",
+            "certificate_hash": "a056836197524c94ef3400dbcc374ac866e33b34"
+          }
+        },
+        {
+          "client_id": "288922492385-313tkq3ufjtc22a5rqlu2t4rcu0j1gq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7V4Ab41zKoJTlMLQ1VqRz6oUOnAFHUDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288922492385-313tkq3ufjtc22a5rqlu2t4rcu0j1gq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
