@@ -1,6 +1,6 @@
-# live_locator
+# Live Locator
 
-A new Flutter project.
+A new Flutter project where you can create groups and you get real time locations of the members of the group on a map!
 
 ## Getting Started
 
