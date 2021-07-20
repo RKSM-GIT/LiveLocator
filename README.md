@@ -20,7 +20,7 @@ LiveLocator uses a number of tools to work:
 
 ### Showcase
 
-![Home Page](https://imgur.com/Z2ey16O)
+![Home Page](https://i.imgur.com/Z2ey16O.png)
 
 Home Page
 
