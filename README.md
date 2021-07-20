@@ -4,10 +4,18 @@ Live Locator is a flutter app that let's you see the live locations of people cl
 
   - Create custom groups where you can add any LiveLocator user to it.
   - Integrated with Google Maps. Get real-time location of the group members on google map.
-  - Has login and signup features.
+  - Implemented login and signup features.
   - Has a feature for finding your own location.
-  - Powered by Firebase authentication and Firestore.
+  - Powered by Firebase authentication and Cloud Firestore.
   - Editable Profile
+
+### Tech
+
+LiveLocator uses a number of tools to work:
+
+* [flutter & dart] - Provides the main framework to develop the app
+* [Firebase Authentication] - To implement login and signup
+* [Cloud Firestore] - To maintain, update and create databases.
 
 ## Getting Started
 
