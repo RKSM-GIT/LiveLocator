@@ -21,8 +21,28 @@ LiveLocator uses a number of tools to work:
 ### Showcase
 
 ![Home Page](https://i.imgur.com/Z2ey16O.png)
+Home Page. Logged in users will arrive at this screen.
 
-Home Page
+![Register Page](https://i.imgur.com/VU41wO5.png)
+Register/Signup Page
+
+![Login Page](https://i.imgur.com/JkRGfMf.png)
+Signin/Login Page
+
+![Profile Panel](https://i.imgur.com/9M8A43m.png)
+Profile Panel. Here you can also edit your profile data.
+
+![MyLocation Page](https://i.imgur.com/vCC6Q9s.png)
+See your own real time location on google map.
+
+![Group Page](https://i.imgur.com/GHzTFWC.png)
+See what groups you are a part of.
+
+![Search Page](https://i.imgur.com/qoC2zmN.png)
+Search users in order to create groups.
+
+![Map Page](https://i.imgur.com/uOBxBKt.png)
+See the real time location of all the members of the group on google map.
 
 ## Getting Started
 
