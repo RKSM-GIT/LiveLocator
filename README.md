@@ -18,6 +18,12 @@ LiveLocator uses a number of tools to work:
 * [Cloud Firestore] - To maintain, update and create databases.
 * [Dart] - Language used to make flutter applications.
 
+### Showcase
+
+![Home Page](https://imgur.com/Z2ey16O)
+
+Home Page
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
