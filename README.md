@@ -22,66 +22,46 @@ LiveLocator uses a number of tools to work:
 
 ![Home Page](https://i.imgur.com/Z2ey16O.png)
 
-Home Page. Logged in users will arrive at this screen.
+Home Page. Logged in users will arrive at this screen.<br /><br />
 
 
 
 ![Register Page](https://i.imgur.com/VU41wO5.png)
 
-Register/Signup Page
+Register/Signup Page<br /><br />
 
 
 
 ![Login Page](https://i.imgur.com/JkRGfMf.png)
 
-Signin/Login Page
+Signin/Login Page<br /><br />
 
 
 
 ![Profile Panel](https://i.imgur.com/9M8A43m.png)
 
-Profile Panel. Here you can also edit your profile data.
+Profile Panel. Here you can also edit your profile data.<br /><br />
 
 
 
 ![MyLocation Page](https://i.imgur.com/vCC6Q9s.png)
 
-See your own real time location on google map.
+See your own real time location on google map.<br /><br />
 
 
 
 ![Group Page](https://i.imgur.com/GHzTFWC.png)
 
-See what groups you are a part of.
+See what groups you are a part of.<br /><br />
 
 
 
 ![Search Page](https://i.imgur.com/qoC2zmN.png)
 
-Search users in order to create groups.
+Search users in order to create groups.<br /><br />
 
 
 
 ![Map Page](https://i.imgur.com/uOBxBKt.png)
 
-See the real time location of all the members of the group on google map.
-
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-  [Flutter]: <https://flutter.dev/>
-  [Firebase Authentication]: <https://firebase.google.com/docs/auth>
-  [Cloud Firestore]: <https://firebase.google.com/docs/firestore>
-  [Dart]: <https://dart.dev/>
+See the real time location of all the members of the group on google map.<br /><br />
